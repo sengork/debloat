@@ -90,6 +90,20 @@ com.samsung.android.mdx
 com.samsung.android.forest
 com.google.android.projection.gearhead
 com.google.android.apps.tachyon
+com.sec.android.app.ve.vebgm
+com.android.theme.icon.square
+com.android.theme.color.cinnamon
+com.android.theme.icon.square
+com.android.theme.color.ocean
+com.android.theme.color.space
+com.android.theme.color.green
+com.android.theme.icon_pack.circular.themepicker
+com.android.theme.icon_pack.circular.settings
+com.android.theme.icon.teardrop
+com.android.theme.color.orchid
+com.android.theme.color.purple
+com.samsung.android.themecenter
+com.samsung.android.visionarapps
 "
 
 export DISABLE="
@@ -158,6 +172,7 @@ com.sec.factory.iris.usercamera
 com.sec.factory.iris.camera
 com.samsung.android.lool
 com.sec.spp.push
+com.samsung.android.biometrics.app.setting
 "
 
 
