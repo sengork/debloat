@@ -104,6 +104,14 @@ com.android.theme.color.orchid
 com.android.theme.color.purple
 com.samsung.android.themecenter
 com.samsung.android.visionarapps
+com.samsung.android.app.sharelive
+com.samsung.android.ardrawing
+com.samsung.android.arzone
+com.samsung.android.aware.service
+com.samsung.android.livestickers
+com.samsung.android.mcfserver
+com.samsung.android.mdx.kit
+com.samsung.android.svoiceime
 "
 
 export DISABLE="
@@ -160,7 +168,7 @@ com.google.android.onetimeinitializer
 com.samsung.android.app.readingglass
 com.android.managedprovisioning
 com.samsung.android.service.airviewdictionary
-com.google.android.tts
+com.google.android.ttcom.samsung.android.svoiceimer
 com.android.providers.userdictionary
 com.samsung.android.app.camera.sticker.stamp.preload
 com.samsung.android.app.talkback
@@ -173,6 +181,8 @@ com.sec.factory.iris.camera
 com.samsung.android.lool
 com.sec.spp.push
 com.samsung.android.biometrics.app.setting
+com.samsung.android.honeyboard
+com.samsung.android.icecone
 "
 
 
