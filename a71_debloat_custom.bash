@@ -35,7 +35,6 @@ com.microsoft.skydrive
 com.samsung.android.smartface
 com.samsung.android.emojiupdater
 com.google.android.apps.tachyon
-com.android.settings.intelligence
 com.microsoft.office.outlook
 com.facebook.services
 com.android.dreams.basic
@@ -75,7 +74,6 @@ com.samsung.android.livestickers
 com.hiya.star
 com.samsung.android.allshare.service.fileshare
 com.samsung.android.allshare.service.mediashare
-com.samsung.android.app.dressroom
 "
 
 export DISABLE="
@@ -102,3 +100,6 @@ do
 	./adb.exe shell "pm disable-user --user 0 $i"
 	./adb.exe shell "am force-stop --user 0 $i"
 done
+
+# com.android.settings.intelligence - removing will break settings search
+# com.samsung.android.app.dressroom - will break wallpapers
